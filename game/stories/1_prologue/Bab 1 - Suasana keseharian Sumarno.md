@@ -63,33 +63,32 @@ Sumarno tertunduk, memegang karung dengan erat. Paman mendesah pelan, merogoh sa
 Berikan ini pada adikmu. Paman mau bicara sebentar dengan ibumu di dalam.
 
 # **Scene 03** INT. Ruang Tengah - Sore Menjelang Senja
-## Pemain: Sumarno, Ibu, Adik, Paman
-
-Cahaya keemasan masuk dari jendela. Keempatnya duduk di tikar pandan, menikmati teh hangat dan singkong rebus. Suasananya hangat, diselingi celoteh Adik tentang burung yang ia lihat di pohon mangga.
-
-Tiba-tiba, dari kejauhan, terdengar bunyi NGIUNGGG... suara sirine panjang meraung-raung dari arah pusat kota.
-
-Suasana hangat seketika beku. Adik menutup telinganya. Ibu memegang lengan Sumarno dengan gemetar.
+Cahaya keemasan masuk dari jendela. Keempatnya duduk di tikar pandan, menikmati teh hangat, singkong rebus dan mendoan. Suasananya hangat, diselingi celoteh Adik tentang burung yang ia lihat di pohon mangga.
 
 **Ibu**
-Suara apa itu, Kang? Bukannya ini belum jam malam?
-
-Paman berdiri dengan cepat, berlari ke arah jendela dan mengintip keluar. Di kejauhan, kepulan asap hitam tipis mulai terlihat di udara.
-
-Tak lama terdengar suara yang cukup lantang dari radio
-
-**Radio**
-PERHATIAN UNTUK WARGA PURWOKERTO! BELANDA TELAH MENEMBUS PERTAHANAN LUAR! HIMBAUAN UNTUK WARGA UNTUK SEGERA EVAKUASI KE LERENG GUNUNG!
+Gimana mas tadi di pasar? Sumarno bilang mas sampe ke pasar desa sebelah?
 
 **Paman**
-(Wajahnya pucat, menatap tajam ke arah Ibu)
-Mbakyu. Masukkan baju dan makanan ke dalam buntelan. Sekarang juga.
+Lumayan cape dek, agak sulit untuk mencari beras dan gula merah. Banyak yang sudah habis jadi harus cari ke desa sebelah, harganya pun ikut naik.
 
 **Sumarno**
-(Berdiri)
-Ada apa, Paman?!
-
-Paman menoleh ke arah Sumarno, suaranya parau namun tegas.
+Tadi paman sampai ke pasar mana? Ajibarang?
 
 **Paman**
-Belanda sudah menembus pertahanan luar. Kolonel Gatot baru saja memberi perintah. Purwokerto akan dibakar malam ini. Kita harus evakuasi ke Gunung Slamet. Sekarang!
+Iya no, paman baru ketemu beras disana.
+
+**Adik**
+Wih paman asik ya bisa jalan jalan ke desa sebelah, adik mau juga dongggg.
+
+**Paman**
+Enak aja jalan jalan, paman tuh cape tau sepedaan jauh jauh. Besok yaa kalau adik sudah besar kita jalan jalan keliling kota bersama.
+
+**Ibu**
+Gimana mas? Kurang ngga singkongnya? Aku rebusin lagi kalau mau.
+
+**Paman**
+Ngga usah dek, mas sudah kenyang. Enak sekali mendoan dan sambal kecapnya. No, bantu paman beberas barang barang diluar, kita siap siap untuk nutup rumah malam ini.
+
+**Sumarno**
+Oke paman!
+

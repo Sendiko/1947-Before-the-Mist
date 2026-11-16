@@ -87,3 +87,7 @@ Belum sempat Sumarno menjawab pertanyaan tersebut, Paman berkata dengan lantang 
 No! Udah ngga usah aneh-aneh kamu! 
 
 Sumarno dihadapi oleh 2 pilihan sulit. Ia harus memilih antara kasih sayang untuk Adik dan Ibu, atau rasa nasionalisme nya terhadap kota yang ia tinggali sedari kecil.
+
+# Pilihan Sumarno
+1. ![[Bab 2 - Ketukan Pintu Malam - Pergi Bersama Paman]]
+2. ![[Bab 2 - Ketukan Pintu Malam - Pergi bersama Pasukan Laskar]]
