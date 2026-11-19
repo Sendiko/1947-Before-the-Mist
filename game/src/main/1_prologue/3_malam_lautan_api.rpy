@@ -1,4 +1,5 @@
 label with_uncle:
+    $ chapter_2_route = "with_uncle"
     sumarno "Maaf! Aku harus memastikan Ibu dan Adik selamat sampai posko. Pertahankan kota tercinta kita!"
     pasukan_laskar "Baiklah, No. Kamu tak perlu khawatir. Segera pergi ke posko evakuasi."
     paman "Ayo, No! Kita tidak punya banyak waktu."
@@ -36,9 +37,11 @@ label evacuation_route:
     sumarno "Stasiun... alun-alun... Pak Guru dulu mengajar di sebelah sana..."
     paman "Kamu lihat baik-baik, No. Ingat malam ini. Suatu hari kota itu akan kembali ke tangan kita, tapi bukan dengan tangan yang diam saja."
     sumarno "Aku akan kembali, Purwokerto."
-    return
+    jump warga_melawan_penjajah_belanda
+
 
 label with_laskar:
+    $ chapter_2_route = "with_laskar"
     scene black with fade
     sumarno "Maafkan aku, Bu. Aku janji akan menyusul Ibu ke posko sebelum matahari terbit."
     ibu "Janji, ya, No? Ibu tunggu di posko. Jaga diri baik-baik."
@@ -79,4 +82,4 @@ label with_laskar:
     adik "Kakak! Kakak bau asap!"
     "Dari kejauhan terdengar ledakan besar. Purwokerto terlihat seperti lautan api."
     sumarno "Purwokerto..."
-    return
+    jump warga_melawan_penjajah_belanda
