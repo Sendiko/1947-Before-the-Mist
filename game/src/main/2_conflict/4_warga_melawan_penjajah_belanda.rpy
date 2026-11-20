@@ -80,4 +80,4 @@ label warga_melawan_penjajah_belanda:
     paman "Ayo, No. Kabut ini kawan kita malam ini."
     "Sumarno menoleh sekali lagi. Ibu berdiri di depan tenda dengan Adik di sampingnya, dua sosok kecil yang makin buram diselimuti kabut."
     "Ibu mengangkat tangannya pelan. Sumarno membalas, lalu berbalik, dan keduanya menghilang ke dalam putihnya kabut menuju kota."
-    return
+    jump tiba_di_kota_untuk_bertarung

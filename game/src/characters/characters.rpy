@@ -8,6 +8,8 @@ define komandan_laskar = Character("Komandan Laskar", color="#ffe8b3")
 define tentara_belanda = Character("Tentara Belanda", color="#d9d9d9")
 define kolonel_mayer = Character("Kolonel Mayer", color="#d9d9d9")
 define warga_pengungsi = Character("Warga Pengungsi", color="#f0d9b5")
+define ibu_jamu = Character("Ibu Jamu", color="#f5d6a6")
+define tukang_becak = Character("Tukang Becak", color="#d6f0e8")
 
 transform character_left:
     xalign 0.0
